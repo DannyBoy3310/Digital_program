@@ -2,3 +2,5 @@ configs
 configs.pub
 explore_california/
 first_git_project/
+gitlab-runner_amd64-fips.deb
+gitlab-runner_amd64.deb
